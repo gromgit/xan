@@ -35,7 +35,7 @@ Finally, `xan` can be used to display CSV files in the terminal, for easy explor
 * [How to install](#how-to-install)
   * [Cargo](#cargo)
   * [Scoop (Windows)](#scoop-windows)
-  * [Homebrew (macOS)](#homebrew-macos)
+  * [Homebrew (macOS and Linux)](#homebrew)
   * [Arch Linux](#arch-linux)
   * [Nix](#nix)
   * [Pre-built binaries](#pre-built-binaries)
@@ -80,9 +80,9 @@ scoop bucket add extras
 scoop install xan
 ```
 
-### Homebrew (macOS)
+### Homebrew (macOS and Linux)
 
-`xan` can be installed with [Homebrew](https://brew.sh/) on macOS thusly:
+`xan` can be installed with [Homebrew](https://brew.sh/) on macOS and Linux thusly:
 
 ```bash
 brew install xan
